@@ -13,7 +13,7 @@ A demo web for Dog Tinder built with css and bootstrap.
 
 ## Contributing
 
-* [x] [Tri Nguyen](https://github.com/tringuyen1086)
+* [x] [Tri Nguyen GitHub](https://github.com/tringuyen1086)
 * [x] Please find me on [Linkedin](https://www.linkedin.com/in/tri-nguyen-1086).
 
 
